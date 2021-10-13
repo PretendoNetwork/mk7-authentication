@@ -1,5 +1,5 @@
-# Super Mario Maker - Authentication
-### Pretendo Super Mario Maker authentication server
+# Mario Kart 7 - Authentication
+### Pretendo Mario Kart 7 authentication server
 
 ## About
-Only handles WiiU at this point. Only has enough implemented to get the Super Mario Maker app booting. Lots of things are not implemented
+Can get into matches. That's about it xD
